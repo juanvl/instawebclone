@@ -9,11 +9,11 @@ Also there is a mobile version of this project: https://github.com/juanvl/instac
 
 Screenshots:
 
-<div style="float: left">
-  <img src="./preview/new-post.png" width="800" height="600" />
-  <img src="./preview/feed1.png" width="800" height="600" />
+<div>
+  <img src="./preview/new-post.png" />
+  <img src="./preview/feed1.png" />
+  <img src="./preview/feed2.png" />
   <img src="./preview/feed1-responsive.png" width="340" height="600" />
-  <img src="./preview/feed2.png" width="340" height="600" />
   <img src="./preview/feed2-responsive.png" width="340" height="600" />
 </div>
 
